@@ -5,6 +5,7 @@ A new Flutter project.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
+<img width="960" alt="Capture3" src="https://github.com/user-attachments/assets/82279c4d-4694-4bff-aeda-ab895b0e1886" />
 
 A few resources to get you started if this is your first Flutter project:
 
